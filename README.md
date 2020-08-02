@@ -5,12 +5,10 @@ We make the English, Czech, German, and Russian datasets available that we use w
 
 https://drive.google.com/drive/folders/1gxxZ1_3nXrV4kVJeMNBLatk7PUcRePb2?usp=sharing
 
-Reference translations for the test set are available from http://www.statmt.org/wmt20/translation-task.html. 
+The datasets allow fast deployment of accurate MT systems and can be used for benchmarking the performance of MT models. Reference translations for the test set are available from http://www.statmt.org/wmt20/translation-task.html. 
 
 
 Citation:
 Ergun Bicici. Machine Translation with parfda, Moses, kenlm, nplm, and PRO. In Proc. of the Fourth Conf. on Machine Translation (WMT19), Florence, Italy, 8 2019. Association for Computational Linguistics.
-
-The datasets allow fast deployment of accurate MT systems and can be used for benchmarking the performance of MT models.
 
 LICENSE Note: BSD license. We also inherit characteristics of the license of WMT conference organization, which allows the use for research purposes, to make the datasets available.
