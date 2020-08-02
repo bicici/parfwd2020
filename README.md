@@ -5,7 +5,7 @@ We make the English, Czech, German, and Russian datasets available that we use w
 
 https://drive.google.com/drive/folders/1gxxZ1_3nXrV4kVJeMNBLatk7PUcRePb2?usp=sharing
 
-The datasets allow fast deployment of accurate MT systems and can be used for benchmarking the performance of MT models. Reference translations for the test set are available from http://www.statmt.org/wmt20/translation-task.html. 
+The datasets allow fast deployment of accurate MT systems and can be used for benchmarking MT models. Reference translations for the test set are available from http://www.statmt.org/wmt20/translation-task.html. 
 
 
 Citation:
